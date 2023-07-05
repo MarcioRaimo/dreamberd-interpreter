@@ -1,0 +1,2 @@
+var opa = 'opa'!
+print(opa)!
